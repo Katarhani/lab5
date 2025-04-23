@@ -1,4 +1,10 @@
 fastapi
 uvicorn
+<<<<<<< HEAD
 pydantic-settings
 httpx
+=======
+pytest
+httpx
+pydantic-settings
+>>>>>>> dev
